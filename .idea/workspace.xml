@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9549bdf6-b47c-48af-ae08-c7620b7f5e18" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="module-info" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aX92y5UCQlSPVJGBNlibTgKlQf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="REP.RippingTheThreads" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RippingTheThreads.APP.App" />
+      <module name="APP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RippingTheThreads.APP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9549bdf6-b47c-48af-ae08-c7620b7f5e18" name="Default Changelist" comment="" />
+      <created>1586870867524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586870867524</updated>
+      <workItem from="1586870870555" duration="222000" />
+      <workItem from="1586871191648" duration="10485000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="618" y="243" key="#com.intellij.ide.util.MemberChooser" timestamp="1586878651339">
+      <screen x="0" y="0" width="1624" height="1067" />
+    </state>
+    <state x="618" y="243" key="#com.intellij.ide.util.MemberChooser/0.0.1624.1067@0.0.1624.1067" timestamp="1586878651339" />
+    <state x="543" y="280" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586879291633">
+      <screen x="0" y="0" width="1624" height="1067" />
+    </state>
+    <state x="543" y="280" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1624.1067@0.0.1624.1067" timestamp="1586879291633" />
+    <state x="593" y="289" key="FileChooserDialogImpl" timestamp="1586885153809">
+      <screen x="0" y="0" width="1624" height="1067" />
+    </state>
+    <state x="593" y="289" key="FileChooserDialogImpl/0.0.1624.1067@0.0.1624.1067" timestamp="1586885153809" />
+    <state width="1581" height="698" key="GridCell.Tab.0.bottom" timestamp="1586885113102">
+      <screen x="0" y="0" width="1624" height="1067" />
+    </state>
+    <state width="1581" height="698" key="GridCell.Tab.0.bottom/0.0.1624.1067@0.0.1624.1067" timestamp="1586885113102" />
+    <state width="1581" height="698" key="GridCell.Tab.0.center" timestamp="1586885113102">
+      <screen x="0" y="0" width="1624" height="1067" />
+    </state>
+    <state width="1581" height="698" key="GridCell.Tab.0.center/0.0.1624.1067@0.0.1624.1067" timestamp="1586885113102" />
+    <state width="1581" height="698" key="GridCell.Tab.0.left" timestamp="1586885113102">
+      <screen x="0" y="0" width="1624" height="1067" />
+    </state>
+    <state width="1581" height="698" key="GridCell.Tab.0.left/0.0.1624.1067@0.0.1624.1067" timestamp="1586885113102" />
+    <state width="1581" height="698" key="GridCell.Tab.0.right" timestamp="1586885113102">
+      <screen x="0" y="0" width="1624" height="1067" />
+    </state>
+    <state width="1581" height="698" key="GridCell.Tab.0.right/0.0.1624.1067@0.0.1624.1067" timestamp="1586885113102" />
+    <state width="1581" height="627" key="GridCell.Tab.1.bottom" timestamp="1586882033717">
+      <screen x="0" y="0" width="1624" height="1067" />
+    </state>
+    <state width="1581" height="627" key="GridCell.Tab.1.bottom/0.0.1624.1067@0.0.1624.1067" timestamp="1586882033717" />
+    <state width="1581" height="627" key="GridCell.Tab.1.center" timestamp="1586882033717">
+      <screen x="0" y="0" width="1624" height="1067" />
+    </state>
+    <state width="1581" height="627" key="GridCell.Tab.1.center/0.0.1624.1067@0.0.1624.1067" timestamp="1586882033717" />
+    <state width="1581" height="627" key="GridCell.Tab.1.left" timestamp="1586882033712">
+      <screen x="0" y="0" width="1624" height="1067" />
+    </state>
+    <state width="1581" height="627" key="GridCell.Tab.1.left/0.0.1624.1067@0.0.1624.1067" timestamp="1586882033712" />
+    <state width="1581" height="627" key="GridCell.Tab.1.right" timestamp="1586882033717">
+      <screen x="0" y="0" width="1624" height="1067" />
+    </state>
+    <state width="1581" height="627" key="GridCell.Tab.1.right/0.0.1624.1067@0.0.1624.1067" timestamp="1586882033717" />
+    <state x="263" y="154" key="new project wizard" timestamp="1586878452146">
+      <screen x="0" y="0" width="1624" height="1067" />
+    </state>
+    <state x="263" y="154" key="new project wizard/0.0.1624.1067@0.0.1624.1067" timestamp="1586878452146" />
+  </component>
+</project>

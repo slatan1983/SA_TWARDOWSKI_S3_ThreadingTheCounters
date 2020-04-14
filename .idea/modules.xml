@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/APP/APP.iml" filepath="$PROJECT_DIR$/APP/APP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BLL/BLL.iml" filepath="$PROJECT_DIR$/BLL/BLL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModelInterfaces/ModelInterfaces.iml" filepath="$PROJECT_DIR$/ModelInterfaces/ModelInterfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/REP/REP.iml" filepath="$PROJECT_DIR$/REP/REP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RippingTheThreads.iml" filepath="$PROJECT_DIR$/RippingTheThreads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UI/UI.iml" filepath="$PROJECT_DIR$/UI/UI.iml" />
+    </modules>
+  </component>
+</project>

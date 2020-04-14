@@ -1,0 +1,3 @@
+module REP {
+    requires ModelInterfaces;
+}
