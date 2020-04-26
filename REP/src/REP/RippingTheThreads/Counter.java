@@ -2,14 +2,14 @@ package REP.RippingTheThreads;
 
 import RippingTheThreads.Interfaces.Countable;
 
+import java.util.concurrent.atomic.AtomicInteger;
+
 public class Counter implements Countable {
 
-    int count = 0;
+    AtomicInteger count;
 
     public int count() {
-        return this.count++;
+        return this.count.incrementAndGet();
     }
-
-    public int getCount(){return this.count;}
 
 }

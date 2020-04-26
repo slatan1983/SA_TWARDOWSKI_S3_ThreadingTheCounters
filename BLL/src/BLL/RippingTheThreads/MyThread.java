@@ -7,8 +7,10 @@ import RippingTheThreads.Interfaces.Timeable;
 public class MyThread implements Runnable{
 
     String name;
+    Countable counter;
 
-    public MyThread(String newName){
+    public MyThread(String newName, Countable counter){
+        this.counter = counter;
         this.name = newName;
     }
 
@@ -18,7 +20,6 @@ public class MyThread implements Runnable{
 
     @Override
     public void run() {
-        Countable counter = new Counter();
         Timeable timer = new MyTimer();
         for(int i = 0; i < 100; i++){
             Printable.printCount(this.getName(), counter.count());
